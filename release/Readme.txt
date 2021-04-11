@@ -75,7 +75,8 @@ A small pack of splash screens using screenshots from my game with some visual e
 10 - Book & Scroll Textures
 A replacement for the book and scroll background textures as well as the journal bookmark.
 
-
+11 - Alt Cursor
+An optional replacement for the main cursor for those who don't like the current one. You'll still need the original pack for the other cursors. In the future this may become a full alternative pack.
 
 Suggested Mods
 This mod is intended to be used with the following mods. In the future I may bundle or reimplement some of these in this mod, but for the time being, it's suggested to get and install these first.
