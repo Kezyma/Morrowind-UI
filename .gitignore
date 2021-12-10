@@ -1,25 +1,4 @@
 
-fomod/config.ini
-fomod/Docs/Léeme.txt
-fomod/Docs/ReadMe.txt
-fomod/Docs/中文正體 說明(ReadMe).pdf
-fomod/Docs/中文简体 说明(ReadMe).pdf
-fomod/FOMODCreationTool.exe
-fomod/Language/Chinese (complex font) by 332671403.txt
-fomod/Language/Chinese (complex) by ThekingdomSCH.txt
-fomod/Language/Chinese (simplified) by 332671403.txt
-fomod/Language/Chinese (simplified) by ThekingdomSCH.txt
-fomod/Language/English.txt
-fomod/Language/French.txt
-fomod/Language/German.txt
-fomod/Language/Japanese.txt
-fomod/Language/Russian.txt
-fomod/Language/Spanish by RocoFO3.txt
-fomod/logo.jpg
-src/PSDs/2.png
-src/PSDs/3.png
-src/PSDs/Mod Backup.png
-src/PSDs/Myar Aranath.png
-src/PSDs/Open Cities.png
-src/PSDs/Reinstaller.png
-src/PSDs/Tundra Homestead.png
+fomod
+fomod/*
+src/PSDs/*.png
