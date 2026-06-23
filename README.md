@@ -1,4 +1,4 @@
-![UI Remastered](img/background.jpg)
+![UI Remastered](img/header.webp)
 
 UI Remastered is a Morrowind texture mod that aims to replace every element of Morrowind's user interface with improved, modern design. UI Remastered replaces, cursors, buttons, UI & HUD Design, stat bars, item & magic icons, crosshairs, book & scroll textures, and splash screens.
 
